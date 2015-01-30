@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Act201409>
+<Today>20140928</Today>
+<Name>李砍蒂</Name>
+<Sex>2</Sex>
+<TopIntegral>14020</TopIntegral>
+<TopIntegralName>王大槌</TopIntegralName>
+<Integral>4099</Integral>
+<Rank>199</Rank>
+<!--	Score有值就表示過關	-->
+<Level1>
+	<g Score="123" topScore="5555" Points="1"></g>
+	<g Score="55" topScore="6660" Points="1"></g>
+	<g Score="3" topScore="" Points="0"></g>
+</Level1>
+<Level2>
+	<g Score="3" topScore="" Points="0"></g>
+	<g Score="2" topScore="" Points="1"></g>
+	<g Score="3" topScore="" Points="1"></g>
+</Level2>
+<Level3>
+	<g Score="3" topScore="" Points="1"></g>
+	<g Score="2" topScore="" Points="1"></g>
+	<g Score="3" topScore="" Points="1"></g>
+</Level3>
+<Level4>
+	<g Score="1" topScore="" Points="1"></g>
+	<g Score="2" topScore="" Points="1"></g>
+	<g Score="2" topScore="" Points="1"></g>
+</Level4>
+</Act201409>
